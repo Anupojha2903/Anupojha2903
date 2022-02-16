@@ -2,7 +2,7 @@
 - 👀 I’m interested in python tkinter
 - 🌱 I’m currently learning tkinter
 - 💞️ I’m looking to collaborate on a project of making software through tkinter
-- 📫 How to reach me 9309109229 dm me on whats app
+- 📫 How to reach me 9309109229 dm me on whats app or anupo2903@tirpude.edu.in mail me.
 
 <!---
 Anupojha2903/Anupojha2903 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
